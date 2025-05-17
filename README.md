@@ -1,4 +1,4 @@
-# second_build_automation_testing
+# Second_build_automation_testing
 
 This repo contains of  both manual and automation testing for a website
 
