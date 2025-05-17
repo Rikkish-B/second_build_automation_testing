@@ -1,1 +1,52 @@
 # second_build_automation_testing
+
+This repo contains of  both manual and automation testing for a website
+
+## Website Name - Bewakoooff (A Fashion & Apparel E-commerce)
+  It is a best platform to buy high quality and branded cloths in affordable price 
+
+## For manual
+  <img alt="GitHub" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+
+  **Operating System and browsers used:**
+
+<img alt="Windows" src="https://img.shields.io/badge/Windows-00ADEF?logo=windows&logoColor=white&style=flat" />
+<img alt="Edge" src="https://img.shields.io/badge/Edge-5C2D91?logo=microsoft-edge&logoColor=white&style=flat" />
+<img alt="Firefox" src="https://img.shields.io/badge/Firefox-FF9500?logo=firefox-browser&logoColor=white&style=flat" />
+<img alt="Chrome" src="https://img.shields.io/badge/Chrome-4285F4?logo=google-chrome&logoColor=white&style=flat" />
+
+
+## For Automation
+  ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+
+  ## Application Under Test 
+
+AUT URL: https://bewakoooff.netlify.app/html/
+
+
+
+## Testing Types
+
+- Functional Testing
+- Usability Testing
+- Cross browser Testing
+- Automation testing (cypress)
+
+
+
+## Test Case Execution Status
+
+| Test Case Status            | Build Result        |
+|-----------------------------|---------------------|
+| Total Number of Test Cases  | 57                  |
+| Passed Test Cases           | 27                  |
+| Failed Test Cases           | 30                  |
+
+
+_________________________________________________________________________________________
+
+If i have done any mistake in codes or if left any defect free feel to modify it 
+
+## Feedback
+
+If you have any feedback, please reach out to me at rikkish0807@gmail.com
