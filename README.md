@@ -45,7 +45,7 @@ AUT URL: https://bewakoooff.netlify.app/html/
 
 _________________________________________________________________________________________
 
-If i have done any mistake in codes or if left any defect free feel to modify it 
+If i have done any mistake in codes or if left any defectfree feel to modify it 
 
 ## Feedback
 
